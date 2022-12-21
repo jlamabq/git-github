@@ -1,0 +1,7 @@
+.DS_Store
+*.rpm
+*.tar.gz
+/releases/*
+/releases-old/*
+.terraform/*
+.terraform.lock.hcl
